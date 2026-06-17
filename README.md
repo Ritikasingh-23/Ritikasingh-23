@@ -146,18 +146,6 @@ I’m **Ritika Singh** — an **AI Assisted Full Stack Developer** focused on bu
 ---
 
 <!-- ================================ -->
-<!--  TROPHIES                        -->
-<!-- ================================ -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ritikasingh-23&theme=onedark&no-frame=true&row=1&column=7" alt="trophy" />
-  <p style="font-size: 0.9em; color: #666;">Trophy service temporarily unavailable—check back later!</p>
-</div>
-
----
-
-<!-- ================================ -->
 <!--  CONTRIBUTION SNAKE              -->
 <!-- ================================ -->
 ## 🐍 Contribution Snake
