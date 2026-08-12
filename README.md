@@ -66,24 +66,13 @@ I'm **Ritika Singh** — an **AI Assisted Full Stack Developer** focused on buil
 
 <div align="center">
 
-| Project | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| 🛒 **FlipZone AI Comparison** | AI-powered product comparison platform presenting detailed specs & recommendations | `JavaScript` `React` `AI Web` | [View Repo](https://github.com/Ritikasingh-23/FlipZone-AI-Comparison) |
-| 🚦 **Traffic Management System** | C-based system for managing signal timings, route optimization, and vehicle flow queues | `C` `Data Structures` | [View Repo](https://github.com/Ritikasingh-23/Traffic-Management-System) |
-| 🏨 **Hotel Management System** | C application for room reservations, customer records, and automated billing management | `C` `File Handling` | [View Repo](https://github.com/Ritikasingh-23/Hotel-Management-System) |
-| 💻 **Developer Portfolio** | Interactive React portfolio showcasing projects, experience, leadership & skills | `React` `Vite` `Tailwind` | [View Repo](https://github.com/Ritikasingh-23/RITIKA_Portfolio) |
+| Project | Description | Tech Stack | Repository |
+| :--- | :--- | :--- | :---: |
+| 🛒 **FlipZone AI Comparison** | AI-powered product comparison platform presenting detailed specs & recommendations | `JavaScript` `React` `AI Web` | [![Repo](https://img.shields.io/badge/View_Repo-00d2ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Ritikasingh-23/FlipZone-AI-Comparison) |
+| 🚦 **Traffic Management System** | C-based system for managing signal timings, route optimization, and vehicle flow queues | `C` `Data Structures` | [![Repo](https://img.shields.io/badge/View_Repo-00d2ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Ritikasingh-23/Traffic-Management-System) |
+| 🏨 **Hotel Management System** | C application for room reservations, customer records, and automated billing management | `C` `File Handling` | [![Repo](https://img.shields.io/badge/View_Repo-00d2ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Ritikasingh-23/Hotel-Management-System) |
+| 💻 **Developer Portfolio** | Interactive React portfolio showcasing projects, experience, leadership & skills | `React` `Vite` `Tailwind` | [![Repo](https://img.shields.io/badge/View_Repo-00d2ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Ritikasingh-23/RITIKA_Portfolio) |
 
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/Ritikasingh-23/FlipZone-AI-Comparison">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ritikasingh-23&repo=FlipZone-AI-Comparison&theme=tokyonight&border_radius=8" width="48%" alt="FlipZone AI Comparison Pin" />
-  </a>
-  <a href="https://github.com/Ritikasingh-23/Traffic-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ritikasingh-23&repo=Traffic-Management-System&theme=tokyonight&border_radius=8" width="48%" alt="Traffic Management System Pin" />
-  </a>
 </div>
 
 ---
@@ -106,17 +95,16 @@ I'm **Ritika Singh** — an **AI Assisted Full Stack Developer** focused on buil
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ritikasingh-23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritikasingh-23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" width="48%" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=Ritikasingh-23&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="98%" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ritikasingh-23&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="98%" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritikasingh-23&theme=github-dark" width="98%" alt="Activity Graph" />
 </div>
 
 <br/>
