@@ -1,172 +1,140 @@
-<!-- ================================ -->
-<!--  RITIKA SINGH • PROFILE README    -->
-<!--  Theme: Premium Cyberpunk Dark    -->
-<!--  Repo must be named: Ritikasingh-23 -->
-<!-- ================================ -->
-
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Ritika%20Singh&fontSize=50&fontAlignY=35&desc=AI%20Assisted%20Full%20Stack%20Developer%20%7C%20BCA%20Student&descAlignY=62&descAlign=50" width="100%" alt="Ritika Singh Header" />
 
-  <!-- ===== HERO BANNER ===== -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=Ritika%20Singh&fontSize=46&fontColor=ffffff&animation=twinkling&color=0:00F2FF,50:FF00D4,100:7CFF00" />
-
-  <!-- ===== ROLE LINE ===== -->
   ### ⚡ AI Assisted Full Stack Developer | 🎓 Student
+  <sub>AI-assisted development with clean, scalable code</sub>
 
-  <!-- ===== TYPING ANIMATION ===== -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2600&pause=900&color=00F2FF&center=true&vCenter=true&width=780&lines=React+%7C+Node.js+%7C+JavaScript+%7C+Python;AI-assisted+development+with+clean%2C+scalable+code;Open+to+Internships+%26+Open-Source+Collaboration" alt="Typing Animation" />
+  <br />
 
-  <br/>
-
-  <!-- ===== SOCIAL BUTTONS ===== -->
-  <a href="https://github.com/Ritikasingh-23" target="_blank"><img src="https://img.shields.io/badge/GitHub-0B0B0F?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ritika-singh-ritikasingh23/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/Ritikkaa3004/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-0B0B0F?style=flat-square&logo=leetcode&logoColor=FFA116"/></a>
-  <a href="mailto:ritika5844@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Ritikasingh-23">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/ritika-singh-2aa804381">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/ritika_singh/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:ritikas5844@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
   <br/><br/>
 
-  <!-- ===== QUICK TAGS ===== -->
-  <img src="https://img.shields.io/badge/Internship-AI%20Assisted%20Full%20Stack%20Development-FF00D4?style=flat-square&labelColor=0B0B0F"/>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Collaboration-7CFF00?style=flat-square&labelColor=0B0B0F"/>
-
+  <img src="https://img.shields.io/badge/Internship-AI%20Assisted%20Full%20Stack-ff007f?style=flat-square" alt="Internship Badge" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Collaboration-00e676?style=flat-square" alt="Open to Work Badge" />
 </div>
 
----
+<hr />
 
-<!-- ================================ -->
-<!--  ABOUT SECTION                   -->
-<!-- ================================ -->
-## 🧬 About
+### 🧬 About
 
-I’m **Ritika Singh** — an **AI Assisted Full Stack Developer** focused on building modern UIs, reliable APIs, and clean systems that scale.
+I'm **Ritika Singh** — an **AI Assisted Full Stack Developer** focused on building modern UIs, reliable APIs, and clean systems that scale.
 
-- 🧩 **Currently Doing:** AI Assisted Full Stack Web Development  
-- 🎯 **Looking for:** Internship opportunities, collaborative projects, open-source contributions  
+- 🧩 **Currently Doing**: AI Assisted Full Stack Web Development & BCA at Graphic Era University (8.51/10 CGPA)
+- 🎯 **Looking for**: Internship opportunities, collaborative projects, open-source contributions
 
 ---
 
-<!-- ================================ -->
-<!--  TECH STACK (COMPACT + BADGES)   -->
-<!-- ================================ -->
-## 🛠️ Technical Stack
+### 🛠️ Technical Stack
 
 | Category | Stack |
-|---|---|
-| 🧠 Languages | JavaScript • Python |
-| 🎨 Frontend | React • HTML • CSS |
-| 🧪 Backend | Node.js • JavaScript |
-| 🧰 Tools | Git • GitHub |
+| :--- | :--- |
+| 🧠 **Languages** | C • Java • JavaScript • Python |
+| 🎨 **Frontend** | React • HTML5 • CSS3 |
+| 🔧 **Backend & Web** | Node.js • Express • REST APIs |
+| 🤖 **Tools & Version Control** | Git • GitHub • VS Code |
+
+<br/>
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/JavaScript-0B0B0F?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/Python-0B0B0F?style=for-the-badge&logo=python&logoColor=3776AB"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/React-0B0B0F?style=for-the-badge&logo=react&logoColor=00F2FF"/>
-<img src="https://img.shields.io/badge/HTML5-0B0B0F?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-0B0B0F?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Node.js-0B0B0F?style=for-the-badge&logo=node.js&logoColor=7CFF00"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Git-0B0B0F?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-0B0B0F?style=for-the-badge&logo=github&logoColor=ffffff"/>
-
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </div>
 
 ---
 
-<!-- ================================ -->
-<!--  FEATURED PROJECTS (CARDS)       -->
-<!-- ================================ -->
-## 🚀 Featured Projects
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Ritikasingh-23/YOUR_PROJECT_1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ritikasingh-23&repo=YOUR_PROJECT_1&theme=radical&hide_border=true&border_radius=14" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Ritikasingh-23/YOUR_PROJECT_2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ritikasingh-23&repo=YOUR_PROJECT_2&theme=radical&hide_border=true&border_radius=14" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- ================================ -->
-<!--  OPEN SOURCE SECTION             -->
-<!-- ================================ -->
-## 🌐 Open Source Contributions
-
-- 🔧 Bug fixes, UI improvements, and code cleanup  
-- 📚 Documentation upgrades (READMEs, setup guides)  
-- 🤝 Collaboration via issues, reviews, and small helpful PRs  
-
----
-
-<!-- ================================ -->
-<!--  PHILOSOPHY SECTION              -->
-<!-- ================================ -->
-## 🧠 Philosophy
-
-- 🧱 **Build with Purpose**
-- 📖 **Learn Every Day**
-- 🧼 **Write Clean Code**
-- 🛰️ **Stay Curious**
-- 🤝 **Contribute Back**
-
----
-
-<!-- ================================ -->
-<!--  STATS DASHBOARD                 -->
-<!-- ================================ -->
-## 📊 GitHub Stats
+### 🚀 Featured Projects
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ritikasingh-23&theme=tokyonight" />
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| 🛒 **FlipZone AI Comparison** | AI-powered product comparison platform presenting detailed specs & recommendations | `JavaScript` `React` `AI Web` | [View Repo](https://github.com/Ritikasingh-23/FlipZone-AI-Comparison) |
+| 🚦 **Traffic Management System** | C-based system for managing signal timings, route optimization, and vehicle flow queues | `C` `Data Structures` | [View Repo](https://github.com/Ritikasingh-23/Traffic-Management-System) |
+| 🏨 **Hotel Management System** | C application for room reservations, customer records, and automated billing management | `C` `File Handling` | [View Repo](https://github.com/Ritikasingh-23/Hotel-Management-System) |
+| 💻 **Developer Portfolio** | Interactive React portfolio showcasing projects, experience, leadership & skills | `React` `Vite` `Tailwind` | [View Repo](https://github.com/Ritikasingh-23/RITIKA_Portfolio) |
+
+</div>
 
 <br/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=Ritikasingh-23&theme=radical&hide_border=true&border_radius=14" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritikasingh-23&layout=compact&theme=radical&hide_border=true&border_radius=14" />
-
-<br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ritikasingh-23&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&border_radius=14" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Ritikasingh-23&label=Profile%20Views&color=00f2ff&style=for-the-badge" />
-
+<div align="center">
+  <a href="https://github.com/Ritikasingh-23/FlipZone-AI-Comparison">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ritikasingh-23&repo=FlipZone-AI-Comparison&theme=tokyonight&border_radius=8" width="48%" alt="FlipZone AI Comparison Pin" />
+  </a>
+  <a href="https://github.com/Ritikasingh-23/Traffic-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ritikasingh-23&repo=Traffic-Management-System&theme=tokyonight&border_radius=8" width="48%" alt="Traffic Management System Pin" />
+  </a>
 </div>
 
 ---
 
-<!-- ================================ -->
-<!--  CONTRIBUTION SNAKE              -->
-<!-- ================================ -->
-## 🐍 Contribution Snake
+### 🌐 Open Source & Experience
+
+- 💼 **AI-Assisted Full-Stack Development Intern @ TBI-GEU**: Built modern UIs, integrated APIs, and used GitHub version control.
+- 👑 **PBL Team Leader (3 Semesters)**: Led university teams across Semesters 2, 3 & 4 in project-based learning.
+- 🔧 **Open Source**: Active bug fixes, UI improvements, documentation upgrades, and PR reviews.
+
+---
+
+### 🧠 Philosophy
+
+- 🧱 **Build with Purpose** — Solving real-world problems with efficient software.
+- 📖 **Learn Every Day** — Continuously upgrading skills in AI & web engineering.
+- 🧼 **Write Clean Code** — Prioritizing readability, maintainability, and scalability.
+- 🔭 **Stay Curious** — Exploring cutting-edge development tools and frameworks.
+- 🤝 **Contribute Back** — Sharing knowledge and giving back through open source.
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ritikasingh-23/Ritikasingh-23/output/snake.svg" alt="snake" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ritikasingh-23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritikasingh-23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" width="48%" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Ritikasingh-23&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="98%" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ritikasingh-23&color=00d2ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 ---
 
-<!-- ================================ -->
-<!--  FOOTER                          -->
-<!-- ================================ -->
+### 🐍 Contribution Snake
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:00F2FF,50:FF00D4,100:7CFF00" />
+  <img src="https://raw.githubusercontent.com/Ritikasingh-23/Ritikasingh-23/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Designed & Developed with ❤️ by <b>Ritika Singh</b></sub>
 </div>
